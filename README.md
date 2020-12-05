@@ -3,6 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/harsh219/harsh219/blob/main/character-1.gif?raw=true" width="500" height="400" />
 
 
+- ✍ You can find my projects here [portfolio](https://harshagarwalcs19.wixsite.com/myportfolio)
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on open source
