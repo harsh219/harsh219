@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img align="right" alt="GIF" src="https://github.com/harsh219/harsh219/blob/main/character-1.gif?raw=true" width="500" height="600" />
+ <img align="right" alt="GIF" src="https://github.com/harsh219/harsh219/blob/main/character-1.gif?raw=true" width="500" height="400" />
 
 
 - 🔭 I’m currently working on my course
